@@ -36,7 +36,7 @@ git-add
 git-tag
 ```
 
-## 6. Collaboration [John Aldrine F. Lim]
+## Collaboration [John Aldrine F. Lim]
 
 6. Apply any commits of current branch ahead of specified one.
 ```bash
