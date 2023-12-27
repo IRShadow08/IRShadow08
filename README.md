@@ -7,10 +7,10 @@
 <h4 align="center">->Just Search IRShadow or Seige Setoyaga to find me anywhere<-</h4>  
 <h1></h1>
 
-- As you have already guessed... Yes, I like animes especially Slice-of-life because anime depression just hits right in the feels
-- I am currently studying college here in the Philippines, and yes I am a Filipino
-- I like programming, playing games, doing art... So, why not become a Game Developer
-- I also like cooking a wide variety of cousines and so far making Japanese DIshes are my Favorite
+- As you have already guessed... Yes, I like animes especially Slice-of-life because anime depression just hits ***right in the feels***
+- I am currently studying college here in the Philippines, and yes I am a *Filipino*
+- I like programming, playing games, doing art... So, why not become a **Game Developer**
+- I also like cooking a wide variety of cousines and so far making **Japanese Dishes** are still my favorite to make
 - You can Email me here -> irshadow08@gmail.com
 <h5 align="center">Ps: I play CS2, LoL, Lethal Company, E7, Rev1999, Nikke and Valorant</h5> 
 
