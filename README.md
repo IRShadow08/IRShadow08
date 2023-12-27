@@ -11,16 +11,24 @@
 - You can Email me here -> irshadow08@gmail.com
 <h5 align="center">Ps: I play CS2, LoL, Lethal Company, E7, Rev1999, Nikke and Valorant</h5> 
 
-<h2>5 Git Commands Cheat Sheet</h2>
+## 5 Git Commands Cheat Sheet
 1. Initializes a new Git repository, creating the necessary internal data structures for version control in the current directory
 ```bash
 git-init
 ```
 2. Displays a chronological history of commits in a Git repository, showing commit messages, authors, dates, and commit hashes
+```bash
 git-log
+```
 3.Allows you to revert changes in your working directory to a specified commit or to discard modifications in unstaged files
+```bash
 git restore
+```
 4. It is used to stage changes in the working directory, preparing them to be included in the next commit
+```bash
 git-add
+```
 5. Allows the user to to mark a known point and is often used to mark release points or significant commits in a repository
+```bash
 git-tag
+```
