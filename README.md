@@ -12,7 +12,7 @@
 <h5 align="center">Ps: I play CS2, LoL, Lethal Company, E7, Rev1999, Nikke and Valorant</h5> 
 
 <h2>5 Git Commands Cheat Sheet</h2>
-1. Allows the user to to create a new repository
-```bash 
-git-init [file]
+2. Unstage a file while retaining the changes in working directory
+```bash
+git reset [file]
 ```
