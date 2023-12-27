@@ -35,3 +35,14 @@ git-add
 ```bash
 git-tag
 ```
+
+## 6. Collaboration [John Aldrine F. Lim]
+
+6. Apply any commits of current branch ahead of specified one.
+```bash
+git rebase [branch]
+```
+7. Save modified and staged changes.
+```bash
+git stash
+```
