@@ -12,7 +12,13 @@
 <h5 align="center">Ps: I play CS2, LoL, Lethal Company, E7, Rev1999, Nikke and Valorant</h5> 
 
 <h2>5 Git Commands Cheat Sheet</h2>
-2. Unstage a file while retaining the changes in working directory
-```bash
-git reset [file]
-```
+1. Allows the user to to create a new repository
+git-init[1] 
+2. Allows the user to see logs
+git-log[1]
+3.Allows the user to undo the changes
+git-restore[1] 
+4. Allows the user to manage the index file
+git-add[1]
+5. Allows the user to to mark a known point
+git-tag[1]
