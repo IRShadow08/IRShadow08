@@ -14,6 +14,16 @@
 - You can Email me here -> irshadow08@gmail.com
 <h5 align="center">Ps: I play CS2, LoL, Lethal Company, E7, Rev1999, Nikke and Valorant</h5> 
 
+<div align= "center">
+<img alt="html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="40" height="40"/>
+<img alt="JavaScript" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" width="40" height="40"/>
+<img alt="Java" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="40" height="40"/>
+<img alt="SQL" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="40" height="40"/>
+<img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="40" height="40"/>
+<img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40"/>
+<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/>
+</div>
+
 ## 5 Git Commands Cheat Sheet
 1. This initializes a new Git repository, creating the necessary internal data structures for version control in the current directory
 ```bash
