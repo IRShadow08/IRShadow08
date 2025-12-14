@@ -3,7 +3,7 @@
 <img align="right" src="https://media.tenor.com/7WbRvUKO9JUAAAAj/ram-png.gif" width="150"/>
 </p>
 
-<h1 align="center">Yo, I'm Arvin Miguel B. Antonio (Migs)</h1>
+<h1 align="center">Yo, I'm both SeigeSetoyaga and IRShadow</h1>
 <h4 align="center">->Just Search IRShadow or Seige Setoyaga to find me anywhere<-</h4>  
 <h1></h1>
 
@@ -56,3 +56,4 @@ git rebase [branch]
 ```bash
 git stash
 ```
+
