@@ -35,7 +35,7 @@ Currently, I'm expanding my knowledge in AI engineering, software architecture, 
 An AI-powered facial recognition attendance system utilizing hybrid ensemble machine learning and real-time computer vision to automate classroom attendance with high accuracy.
 
 ### TB_pred
-A cloud-based tuberculosis prediction platform that leverages artificial intelligence to assist in medical image analysis and diagnostic support.
+TB_pred is an AI-powered tuberculosis prediction platform that analyzes patient symptoms and health-related information using machine learning. It assists in early TB risk assessment by generating predictive insights that support timely screening and medical decision-making.
 
 ---
 
