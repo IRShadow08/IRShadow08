@@ -1,59 +1,98 @@
-<p>
-<img align="left" src="https://media.tenor.com/9Lap7-Ko1jIAAAAj/rem-transparent.gif" width="150"/>
-<img align="right" src="https://media.tenor.com/7WbRvUKO9JUAAAAj/ram-png.gif" width="150"/>
+<h1 align="center">Hi, I'm Arvin Antonio 👋</h1>
+<h3 align="center">Full Stack Developer • AI/ML Developer • Computer Science Student</h3>
+
+<p align="center">
+Building intelligent applications that combine modern web technologies, machine learning, and automation.
 </p>
 
-<h1 align="center">Yo, I'm both SeigeSetoyaga and IRShadow</h1>
-<h4 align="center">->Just Search IRShadow or Seige Setoyaga to find me anywhere<-</h4>  
-<h1></h1>
+---
 
-- As you have already guessed... Yes, I like animes especially Slice-of-life because anime depression just hits ***right in the feels***
-- I am currently studying college here in the Philippines, and yes I am a *Filipino*
-- I like programming, playing games, doing art... So, why not become a **Game Developer**
-- I also like cooking a wide variety of cousines and so far making **Japanese Dishes** are still my favorite to make
-- You can Email me here -> irshadow08@gmail.com
-<h5 align="center">Ps: I play CS2, LoL, Lethal Company, E7, Rev1999, Nikke and Valorant</h5> 
+## 👨‍💻 About Me
 
-<div align= "center">
-<img alt="html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="40" height="40"/>
-<img alt="JavaScript" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" width="40" height="40"/>
-<img alt="Java" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="40" height="40"/>
-<img alt="SQL" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="40" height="40"/>
-<img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="40" height="40"/>
-<img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40"/>
-<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/>
-</div>
+I'm a Computer Science student from the Philippines with a passion for building software that solves real-world problems. I enjoy developing full-stack web applications, AI-powered systems, and desktop applications while continuously learning new technologies.
 
-## 5 Git Commands Cheat Sheet
-1. This initializes a new Git repository, creating the necessary internal data structures for version control in the current directory
-```bash
-git-init
-```
-2. It displays a chronological history of commits in a Git repository, showing commit messages, authors, dates, and commit hashes
-```bash
-git-log
-```
-3. Allows you to revert changes in your working directory to a specified commit or to discard modifications in unstaged files
-```bash
-git restore
-```
-4. It is used to stage changes in the working directory, preparing them to be included in the next commit
-```bash
-git-add
-```
-5. This enables the user to to mark a known point and is often used to mark release points or significant commits in a repository
-```bash
-git-tag
-```
+My primary interests include machine learning, computer vision, cloud-based applications, backend development, and creating intuitive user experiences. I enjoy transforming complex ideas into practical and scalable solutions.
 
-## Collaboration [John Aldrine F. Lim]
+Currently, I'm expanding my knowledge in AI engineering, software architecture, and modern web technologies while building projects that bridge research with real-world deployment.
 
-6. Apply any commits of current branch ahead of specified one.
-```bash
-git rebase [branch]
-```
-7. Save modified and staged changes.
-```bash
-git stash
-```
+---
 
+## 🚀 Technical Skills
+
+### Languages
+- Python
+- JavaScript
+- C#
+- C++
+- Java
+- SQL
+- HTML5
+- CSS3
+
+### Frameworks & Technologies
+- Flask
+- Node.js
+- Express.js
+- REST APIs
+- Machine Learning
+- Computer Vision
+- Face Recognition
+- Deep Learning
+- OpenCV
+- TensorFlow
+- Scikit-learn
+
+### Databases
+- MySQL
+- SQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- Visual Studio
+- Figma
+- Blender
+
+---
+
+## 💼 Areas of Expertise
+
+- Full Stack Web Development
+- Machine Learning & Artificial Intelligence
+- Computer Vision Applications
+- REST API Development
+- Database Design & Management
+- Desktop Application Development
+- UI/UX Design
+- Software Architecture
+- Cloud-Based Systems
+- Research & System Development
+
+---
+
+## 🌟 Featured Projects
+
+### S.A.M.S+
+An AI-powered facial recognition attendance system utilizing hybrid ensemble machine learning and real-time computer vision to automate classroom attendance with high accuracy.
+
+### TB_pred
+A cloud-based tuberculosis prediction platform that leverages artificial intelligence to assist in medical image analysis and diagnostic support.
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced AI Engineering
+- Scalable Backend Architecture
+- Cloud Deployment
+- Modern Frontend Frameworks
+- Software Design Patterns
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/IRShadow08
+- Email: arvinmiguela08@gmail.com
+
+> *"Building intelligent software that makes technology more practical, efficient, and accessible."*
