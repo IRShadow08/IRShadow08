@@ -17,56 +17,15 @@ Currently, I'm expanding my knowledge in AI engineering, software architecture, 
 
 ---
 
-## 🚀 Technical Skills
+## 💻 Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- C#
-- C++
-- Java
-- SQL
-- HTML5
-- CSS3
-
-### Frameworks & Technologies
-- Flask
-- Node.js
-- Express.js
-- REST APIs
-- Machine Learning
-- Computer Vision
-- Face Recognition
-- Deep Learning
-- OpenCV
-- TensorFlow
-- Scikit-learn
-
-### Databases
-- MySQL
-- SQL
-
-### Tools
-- Git & GitHub
-- VS Code
-- Visual Studio
-- Figma
-- Blender
-
----
-
-## 💼 Areas of Expertise
-
-- Full Stack Web Development
-- Machine Learning & Artificial Intelligence
-- Computer Vision Applications
-- REST API Development
-- Database Design & Management
-- Desktop Application Development
-- UI/UX Design
-- Software Architecture
-- Cloud-Based Systems
-- Research & System Development
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Python, JavaScript, C#, C++, Java, SQL, HTML5, CSS3 |
+| **Backend** | Flask, Node.js, Express.js, REST APIs |
+| **AI & ML** | TensorFlow, Scikit-learn, OpenCV, Computer Vision, Face Recognition, Deep Learning |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, VS Code, Visual Studio, Figma, Blender |
 
 ---
 
