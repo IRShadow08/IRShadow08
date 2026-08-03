@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arvin Antonio 👋</h1>
+<h1 align="center">Hi, I'm IRShadow 👋</h1>
 <h3 align="center">Full Stack Developer • AI/ML Developer • Computer Science Student</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Building intelligent applications that combine modern web technologies, machine 
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student from the Philippines with a passion for building software that solves real-world problems. I enjoy developing full-stack web applications, AI-powered systems, and desktop applications while continuously learning new technologies.
+I'm a Computer Science student with a passion for building software that solves real-world problems. I enjoy developing full-stack web applications, AI-powered systems, and desktop applications while continuously learning new technologies.
 
 My primary interests include machine learning, computer vision, cloud-based applications, backend development, and creating intuitive user experiences. I enjoy transforming complex ideas into practical and scalable solutions.
 
@@ -52,6 +52,5 @@ TB_pred is an AI-powered tuberculosis prediction platform that analyzes patient 
 ## 📫 Contact
 
 - GitHub: https://github.com/IRShadow08
-- Email: arvinmiguela08@gmail.com
 
 > *"Building intelligent software that makes technology more practical, efficient, and accessible."*
